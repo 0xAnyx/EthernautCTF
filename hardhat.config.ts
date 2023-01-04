@@ -1,4 +1,5 @@
 import { HardhatUserConfig } from "hardhat/config";
+import "@nomiclabs/hardhat-web3";
 import * as dotenv from "dotenv";
 import "@nomicfoundation/hardhat-toolbox";
 dotenv.config({ path: __dirname+'/.env' });
