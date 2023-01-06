@@ -8,7 +8,7 @@ Things that might help
 *Understanding ABI specifications
 *Using a very underhanded approach
 */
-pragma solidity ^0.5.0;
+pragma solidity ^0.8.0;
 
 import '@openzeppelin/contracts/access/Ownable.sol';
 
