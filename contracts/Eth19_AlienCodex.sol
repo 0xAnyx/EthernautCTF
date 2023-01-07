@@ -8,9 +8,9 @@ Things that might help
 *Understanding ABI specifications
 *Using a very underhanded approach
 */
-pragma solidity ^0.8.0;
+pragma solidity ^0.5.0;
 
-import '@openzeppelin/contracts/access/Ownable.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-test-helpers/blob/master/contracts/Ownable.sol';
 
 contract AlienCodex is Ownable {
 
