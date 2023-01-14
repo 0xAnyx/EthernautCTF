@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603a9256-6f4e-4e66-afb1-7e2fed9e7562" name="Changes" comment="" />
+    <list default="true" id="603a9256-6f4e-4e66-afb1-7e2fed9e7562" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/contracts/Attackers/Attack_Eth20.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Attackers/Attack_Eth21.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Eth20_Denial.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Eth21_Shop.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Eth20_Denial_Script.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Eth21_Shop_Script.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Attackers/Attack_Eth19.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Attackers/Attack_Eth19.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Eth19_AlienCodex.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Eth19_AlienCodex.sol" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="Solidity Contract" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -55,7 +65,8 @@
       <workItem from="1672288869908" duration="7898000" />
       <workItem from="1672397528437" duration="441000" />
       <workItem from="1672397981895" duration="27221000" />
-      <workItem from="1672938056298" duration="6137000" />
+      <workItem from="1672938056298" duration="8358000" />
+      <workItem from="1673668094702" duration="8993000" />
     </task>
     <servers />
   </component>
