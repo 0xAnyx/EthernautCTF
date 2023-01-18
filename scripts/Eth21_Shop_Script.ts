@@ -12,7 +12,7 @@ async function main() {
 
     const tx = await acceptance.shoplift()
     await tx.wait()
-    
+
     console.log("Price is:", await shop.price())
 }
 
